@@ -3,17 +3,15 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 
 
 # Requirements
-# for Windows
+for Windows
 pip install -r win_requirements.txt
 
-# for Mac OSX
+for Mac OSX
 pip install -r osx_requirements.txt
 
-# for Linux
+for Linux
 pip install -r lnx_requirements.txt
 
 
 # To Run
 python keylog.py
-or
-./keylog.py
