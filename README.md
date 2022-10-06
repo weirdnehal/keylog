@@ -3,13 +3,13 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 
 
 # Requirements
-for Windows
+Windows
 pip install -r win_requirements.txt
 
-for Mac OSX
+Mac OSX
 pip install -r osx_requirements.txt
 
-for Linux
+Linux
 pip install -r lnx_requirements.txt
 
 
